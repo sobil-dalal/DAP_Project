@@ -1,4 +1,10 @@
-# DAP_Project 
+# Data Exploration and Visualisation of Payment Incentive Programs in Medicare
+
+Extracted medical programs' data using APIs and stored it in MongoDB and PostgreSQL after cleaning. Fetched and visualised the data from the Okeanos server and trained a logistic regression model to predict the status of payment reduction in hospitals.
+
+Jupyter Notebook | Python | Okeanos | SODA | KNNImputer | Folium | Seaborn | Matplotlib | SMOTE | Logistic Regression
+
+# Details
 
 Note: Single file that executes all .ipynb files is Final_code_DAP_Project_Sem1
 
